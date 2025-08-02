@@ -1,0 +1,36 @@
+body{
+    background-color: antiquewhite;
+    border: 0.2cm solid;
+    font-family: "Playwrite AU QLD", cursive;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border: 0.2cm solid;
+    border-radius: 50%;
+}
+#red{
+    color: red;
+    background-color: black;
+    text-align: center;
+}
+#blue{
+    color: blue;
+    background-color: black;
+    text-align: center;
+}
+#green{
+    color: green;
+    background-color: black;
+     text-align: center;
+}
+#orange{
+    color: orangered;
+    background-color: black;
+     text-align: center;
+}
+#yellow{
+    color: yellow;
+    background-color: black;
+     text-align: center;
+}
